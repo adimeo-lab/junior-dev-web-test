@@ -4,7 +4,7 @@
 Merci de prendre le temps de faire ce test. Nous espérons que vous y prendrez du plaisir. Des commentaires sur vos choix ou vos difficultés sont attendus en accompagnement de votre rendu.
 
 
-**L'objectif est de développer, à l'aide de PHP/HTML/CSS, la maquette suivante :**
+**L'objectif est de développer, à l'aide de PHP/MySQL/HTML/CSS, la maquette suivante :**
 ![Maquette](maquette.jpg)
 [https://www.figma.com/file/c9AhyfevRefiBbOvDaw605/Test-coding-pool?node-id=4%3A28](https://www.figma.com/file/c9AhyfevRefiBbOvDaw605/Test-coding-pool?node-id=4%3A28)
 
